@@ -6,6 +6,7 @@ public class GitTest01 {
         System.out.println("haha");
         System.out.println("haha");
         System.out.println("hot-fix分支 添加该段功能！");
+        System.out.println("master主分支 冲突合并！");
         System.out.println("hot-fix分支 冲突合并");
     }
 }
