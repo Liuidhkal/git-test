@@ -5,5 +5,6 @@ public class GitTest01 {
         System.out.println("hello git!");
         System.out.println("haha");
         System.out.println("haha");
+        System.out.println("hot-fix分支 添加该段功能！");
     }
 }
