@@ -9,5 +9,6 @@ public class GitTest01 {
         System.out.println("master主分支 冲突合并！");
         System.out.println("hot-fix分支 冲突合并");
         System.out.println("push test!  ");
+        System.out.println("pull test!  ");
     }
 }
