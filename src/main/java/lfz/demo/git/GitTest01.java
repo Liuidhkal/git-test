@@ -12,5 +12,6 @@ public class GitTest01 {
         System.out.println("pull test!  ");
         System.out.println("push test!2  ");
         System.out.println("代理测试");
+        System.out.println("pull test2");
     }
 }
